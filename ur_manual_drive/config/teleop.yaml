@@ -1,0 +1,34 @@
+# Axes
+axis_pan: 0
+axis_lift: 1
+axis_elbow: 2
+axis_wrist_1: 3
+axis_wrist_2: 4
+axis_wrist_3: 5
+
+# Arm
+max_pan: 3.14
+min_pan: -3.14
+max_lift: 3.14
+min_lift: -3.14
+max_elbow: 3.14
+min_elbow: -3.14
+max_wrist_1: 3.14
+min_wrist_1: -3.14
+max_wrist_2: 3.14
+min_wrist_2: -3.14
+max_wrist_1: 3.14
+min_wrist_2: -3.14
+
+pan_step: 0.02
+lift_step: 0.02
+elbow_step: 0.02
+wrist_1_step: 0.02
+wrist_2_step: 0.02
+wrist_3_step: 0.02
+
+# Buttons have changed for PS3 controller mapping 
+# With joystick remapper, this works with all joysticks on "/joy" 
+deadman_button: 4
+arm_button: 5
+
